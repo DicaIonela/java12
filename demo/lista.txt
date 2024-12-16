@@ -1,0 +1,3 @@
+Ana, 9, Bucuresti
+BBB, 7, Suceava
+jjjj, 10, Galati
